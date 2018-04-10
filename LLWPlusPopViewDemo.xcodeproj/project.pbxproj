@@ -41,6 +41,7 @@
 		A522CEE2207CE48F00B33352 /* LLWCustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLWCustomButton.m; sourceTree = "<group>"; };
 		A522CEE3207CE48F00B33352 /* LLWPlusPopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLWPlusPopView.m; sourceTree = "<group>"; };
 		A522CEE4207CE48F00B33352 /* LLWCustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLWCustomButton.h; sourceTree = "<group>"; };
+		A522CEE7207CED7B00B33352 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		A55D4EB1207C638C00BCB8C5 /* LLWPlusPopViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LLWPlusPopViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A55D4EB4207C638D00BCB8C5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A55D4EB5207C638D00BCB8C5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -124,6 +125,7 @@
 				A55D4EB5207C638D00BCB8C5 /* AppDelegate.m */,
 				A55D4EB7207C638D00BCB8C5 /* ViewController.h */,
 				A55D4EB8207C638D00BCB8C5 /* ViewController.m */,
+				A522CEE7207CED7B00B33352 /* Header.h */,
 				A55D4EBA207C638D00BCB8C5 /* Main.storyboard */,
 				A55D4EBD207C638D00BCB8C5 /* Assets.xcassets */,
 				A55D4EBF207C638D00BCB8C5 /* LaunchScreen.storyboard */,
